@@ -161,6 +161,7 @@ Thank you page
 
 @media (min-width: 850px) {
   .container {
+    margin-top: 200px;
     padding: 1.9em;
     width: 412px;
     height: 416px;
